@@ -18,5 +18,7 @@ JDBC
 Hibernate
 Spring Boot
 Git & GitHub
-👨‍💻 Author
+
+# Author
+
 Mayank Singh Bora
