@@ -1,13 +1,13 @@
-Capgemini Training
+# Capgemini Training
 
 This repository contains my Advanced Java training work, including assignments and assessments completed during the training.
 
-#Assignments
+# Assignments
 You can view all assignment tasks here:
 
 https://github.com/cse-mayank-singh/-Advance_Java_Assignments
 
-# Assessment
+# Assessments
 You can view the assessment work here:
 
 https://github.com/cse-mayank-singh/Advance_Java_Assessments
